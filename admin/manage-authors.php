@@ -55,7 +55,7 @@ header('location:manage-authors.php');
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">Manage Authors</h4>
+    text-fill-color: transparent; float:left;">MANAGE AUTHORS</h4>
     </div>
      <div class="row">
     <?php if($_SESSION['error']!="")

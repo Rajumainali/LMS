@@ -72,7 +72,7 @@ return true;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">User Password Recovery</h4>
+    text-fill-color: transparent; float:left;">USER PASSWORD RECOVERY</h4>
 </div>
 </div>
              

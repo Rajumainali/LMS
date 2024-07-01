@@ -55,7 +55,7 @@ header('location:manage-books.php');
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">Manage Books</h4>
+    text-fill-color: transparent; float:left;">MANAGE BOOK</h4>
     </div>
   
 

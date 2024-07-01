@@ -57,7 +57,7 @@ header('location:manage-categories.php');
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">Edit category</h4>
+    text-fill-color: transparent; float:left;">EDIT CATEGORY</h4>
                 
                             </div>
 

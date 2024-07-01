@@ -116,7 +116,7 @@ echo "<script>alert('Invalid Details');</script>";
 <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3" >
 <div class="panel panel-info">
 <div class="panel-heading">
-Enter User cradentials...
+Enter User credentials...
 </div>
 <div class="panel-body">
 <form role="form" method="post">

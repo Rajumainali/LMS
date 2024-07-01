@@ -73,7 +73,7 @@ header('location:reg-students.php');
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">#<?php echo $sid;?> Book Issued History</h4>
+    text-fill-color: transparent; float:left;">#<?php echo $sid;?> BOOK ISSUED HYSTORY</h4>
     </div>
 
 

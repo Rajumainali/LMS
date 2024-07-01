@@ -55,7 +55,7 @@ header('location:manage-categories.php');
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">Manage Categories</h4>
+    text-fill-color: transparent; float:left;">MANAGE CATEGORIES</h4>
     </div>
      <div class="row">
     <?php if($_SESSION['error']!="")

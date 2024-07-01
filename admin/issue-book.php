@@ -105,7 +105,7 @@ error:function (){}
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">Issue a New Book</h4>
+    text-fill-color: transparent; float:left;">ISSUE A NEW BOOK</h4>
                 
                             </div>
 

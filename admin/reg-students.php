@@ -72,7 +72,7 @@ header('location:reg-students.php');
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">Manage Reg Students</h4>
+    text-fill-color: transparent; float:left;">MANAGE REG STUDENT</h4>
     </div>
 
 

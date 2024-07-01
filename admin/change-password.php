@@ -95,7 +95,7 @@ return true;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;"> Change Password</h4>
+    text-fill-color: transparent; float:left;"> CHANGE PASSWORD</h4>
 </div>
 </div>
  <?php if($error){?><div class="errorWrap"><strong>ERROR</strong>:<?php echo htmlentities($error); ?> </div><?php } 

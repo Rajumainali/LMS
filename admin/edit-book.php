@@ -62,7 +62,7 @@ echo "<script>window.location.href='manage-books.php'</script>";
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">Add Book</h4>
+    text-fill-color: transparent; float:left;">ADD BOOK</h4>
                 
                             </div>
 

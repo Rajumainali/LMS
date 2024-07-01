@@ -45,7 +45,7 @@ else{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent; float:left;">Manage Issued Books</h4>
+    text-fill-color: transparent; float:left;">MANAGE ISSUE BOOK</h4>
     </div>
      <div class="row">
     <?php if($_SESSION['error']!="")

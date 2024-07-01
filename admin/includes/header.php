@@ -65,7 +65,7 @@
                             </li>
                              <li><a href="reg-students.php">Reg Students</a></li>
                     
-  <li><a href="change-password.php">Change Password</a></li>
+                         <li><a href="change-password.php">Change Password</a></li>
                         </ul>
                     </div>
                 </div>
